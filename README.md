@@ -21,3 +21,5 @@ https://github.com/2303A51465/aac/blob/main/aac7.5.pdf
 https://github.com/2303A51465/aac/blob/main/aac8.2.pdf
 
 https://github.com/2303A51465/aac/blob/main/aac9.5.pdf
+
+https://github.com/2303A51465/aac/blob/main/aac10.2.pdf
